@@ -1,0 +1,11 @@
+{
+  "name": "mergebranch",
+  "version": "1.0.0",
+  "description": "\"브랜치연습\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "김정수",
+  "license": "MIT"
+}
